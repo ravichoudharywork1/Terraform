@@ -1,4 +1,4 @@
-%%Azure Network Terraform Module%%
+% Azure Network Terraform Module %
 What's This?
 This Terraform setup helps you spin up Azure virtual networks (VNets) and subnets in a neat and scalable way. Instead of repeating the same code over and over, you define your networks in one place using a simple local spec, and Terraform takes care of the rest.
 
